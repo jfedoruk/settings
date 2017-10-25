@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>281</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -289,6 +289,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ConditionsConverterTest.should_convert_conditions_group_to_bundles_when_no_units_defined'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ConditionsConverterTest.should_convert_conditions_group_to_bundles_when_no_units_defined'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ForecastRepositoryQueryBuilderTest.should_prepare_query_for_base_forecast'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mach'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
