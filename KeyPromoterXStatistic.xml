@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>213</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -278,6 +278,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BundleService.Converting bundle to IdaGrid model.should set read-only for cells when converting in read-only mode to grid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ConditionsOverlappingService.checking overlappings for stepped rates.should overlap with other stepped rate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ConditionsOverlappingService.checking overlappings for stepped rates.should overlap with other stepped rate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
