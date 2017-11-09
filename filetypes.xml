@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="patch" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
