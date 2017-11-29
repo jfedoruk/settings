@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liferay.com/dtd/liferay-display_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/f014db71_liferay-display_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-hook_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/e2426814_liferay-hook_7_0_0.dtd" />
     <resource url="http://www.liferay.com/dtd/liferay-look-and-feel_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/2529c4b9_liferay-look-and-feel_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-portlet-app_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/b3b8a3fd_liferay-portlet-app_7_0_0.dtd" />
   </component>
 </application>
