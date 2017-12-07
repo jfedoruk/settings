@@ -49,6 +49,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database Tools...">
+        <Item>
+          <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Database Tools...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -159,6 +167,14 @@
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate DDL to Console">
+        <Item>
+          <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Generate DDL to Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
