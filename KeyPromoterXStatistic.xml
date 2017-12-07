@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -23,6 +23,14 @@
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
