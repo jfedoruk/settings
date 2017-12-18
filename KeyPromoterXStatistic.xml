@@ -22,7 +22,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -175,6 +175,14 @@
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Console">
@@ -558,7 +566,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
