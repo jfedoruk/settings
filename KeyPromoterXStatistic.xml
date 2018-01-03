@@ -337,6 +337,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BundleService.Converting bundle to IdaGrid model.should set read-only for cells when converting in read-only mode to grid'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
