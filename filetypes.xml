@@ -5,6 +5,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
