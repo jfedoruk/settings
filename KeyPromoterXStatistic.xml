@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>429</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -143,6 +143,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID>Vcs.EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Source</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
