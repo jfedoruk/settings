@@ -81,6 +81,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SegmentControllerTest.segment_factory_ha...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SegmentControllerTest.segment_factory_ha...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SegmentControllerTest.should_upload_imsi...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SegmentControllerTest.should_upload_imsi...'</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'debug'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -126,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>522</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -198,7 +214,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Console">
@@ -465,6 +481,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SegmentControllerTest.segment_factory_ha...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SegmentControllerTest.segment_factory_ha...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SegmentControllerTest.should_upload_imsi...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SegmentControllerTest.should_upload_imsi...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'egghead_es6.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -569,6 +601,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SegmentControllerTest.should_upload_imsi_ranges_when_some_overlap'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SegmentControllerTest.should_upload_imsi_ranges_when_some_overlap'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'dev'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -622,7 +662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
