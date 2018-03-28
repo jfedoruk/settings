@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>662</Count>
+          <Count>663</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -646,6 +646,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ConditionsOverlappingService.checking overlappings for stepped rates.should overlap with other stepped rate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Deal.load a deal.informs children'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Deal.load a deal.informs children'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
