@@ -73,11 +73,27 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Deal.load a deal.informs children'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Deal.load a deal.informs children'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ForecastRepositoryTest.build_f...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ForecastRepositoryTest.build_f...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Scope in settings.call destination categ...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Scope in settings.call destination categ...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -150,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>646</Count>
+          <Count>662</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -478,7 +494,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -510,6 +526,22 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'CollectingValidatingImsiRangesHandlerTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Deal.load a deal.informs children'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Deal.load a deal.informs children'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Scope in settings'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Scope in settings'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -641,6 +673,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Scope in settings.call destination categories.by default all callCategories are included'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Scope in settings.call destination categories.by default all callCategories are included'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SegmentControllerTest.should_upload_imsi_ranges_when_some_overlap'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -742,7 +782,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>163</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
