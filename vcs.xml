@@ -18,6 +18,10 @@
           <option name="url" value="https://jfedoruk@bitbucket.org/machII/unity-deployment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://jfedoruk@bitbucket.org/kamilhark/gatito_source.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
