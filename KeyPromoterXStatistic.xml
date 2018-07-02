@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -519,6 +519,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All tests'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AppTest.reverseString'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AppTest.reverseString'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BundleServiceSpec'">
@@ -799,6 +807,14 @@
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>176</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
